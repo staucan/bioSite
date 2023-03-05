@@ -1,2 +1,2 @@
-# bioSite
-CSD-340 bioSite for Candace Martin
+h1 CSD 340 Web Development with HTML and CSS
+h2 Contributors
